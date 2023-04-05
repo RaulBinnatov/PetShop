@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Pişiklər üçün quru və nəm lasos",
+        "price" : "45",
+        "img" : "./img/cattt.png" 
+    },
+    {
+        "name" : "Quşlar üçün çərəz",
+        "price" : "9.90  ",
+        "img" : "../img/img2.png" 
+    },
+    {
+        "name" : "Balıqlar üçün quru toyuq",
+        "price" : "19 ",
+        "img" : "./img/imagee55.png" 
+    },
+    {
+        "name" : "İtlər üçün sümüklər",
+        "price" : "40",
+        "img" : "./img/imag6.png" 
+    },
+    {
+        "name" : "İtlər üçün quru yemək və ət",
+        "price" : "45",
+        "img" : "./img/imag7.png" 
+    },
+    {
+        "name" : "Pişiklər üçün çubuq",
+        "price" : "13.9 ",
+        "img" : "./img/image8.png"  
+    },
+    {
+        "name" : "Dovşanlar üçün dəri ət",
+        "price" : "10 ",
+        "img" : "./img/image9.png" 
+    },
+    {
+        "name" : "Balıqlar üçün quru çörək",
+        "price" : "25",
+        "img" : "./img/imag10.png" 
+    }
+]
